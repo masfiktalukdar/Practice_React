@@ -1,3 +1,3 @@
 export default function App(){
-    return <h2>love you React</h2>
+    return <h1>love you React</h1>
 }
